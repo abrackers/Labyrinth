@@ -255,12 +255,12 @@ MonoBehaviour:
 
 
     This
-    software is only liscenced to the organisation which was given the download.
-    Any other organisations wishing to use it in a commercial or public setting should
-    contact abrackers@gmail.com
+    software is freely licenced to any scout group wishing to use it for any commercial
+    or public use. Any other organisations wishing to use it in a commercial or public
+    setting should contact abrackers@gmail.com
 
-    This software is provided "as is", with no warranty
-    of any kind, or guarantee of performance'
+    This software is provided "as
+    is", with no warranty of any kind, or guarantee of performance'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -621,7 +621,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1568705206}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -951,7 +951,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Press space to start
 
-    Hold L for liscencing
+    Hold L for licencing
 
     and credits
 
